@@ -1,0 +1,23 @@
+# JB Blocklist
+# Blocks ads, trackers, etc. not included by other blacklists I use
+#
+
+# Ads
+0.0.0.0 362b643a66026e.com
+0.0.0.0 displayvertising.com
+0.0.0.0 doswinuba.com
+0.0.0.0 freehotadultgames.com
+0.0.0.0 fuckr.date
+0.0.0.0 grutopsathu.pro
+0.0.0.0 pickupmates.com
+0.0.0.0 tolyafbnjt9dedjj10.com
+0.0.0.0 ulukaris.com
+0.0.0.0 wd.adcolony.xyz
+0.0.0.0 xu2.com
+
+# Fake News
+0.0.0.0 allstock247.com
+0.0.0.0 upupadvice.com
+
+# Gambling
+0.0.0.0 www.platincasino.com
