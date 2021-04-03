@@ -22,3 +22,6 @@
 
 # Gambling
 0.0.0.0 www.platincasino.com
+
+# Malware/Spam
+0.0.0.0 uproductslive.com
