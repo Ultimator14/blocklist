@@ -5,6 +5,7 @@
 # Ads
 0.0.0.0 362b643a66026e.com
 0.0.0.0 ads-inmobi-com-tm.trafficmanager.net
+0.0.0.0 chitypyve.pro
 0.0.0.0 displayvertising.com
 0.0.0.0 doswinuba.com
 0.0.0.0 fodlkf9d1p.com
@@ -12,6 +13,7 @@
 0.0.0.0 fuckr.date
 0.0.0.0 grutopsathu.pro
 0.0.0.0 pickupmates.com
+0.0.0.0 resalag.com
 0.0.0.0 tolyafbnjt9dedjj10.com
 0.0.0.0 ulukaris.com
 0.0.0.0 wd.adcolony.xyz
