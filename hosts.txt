@@ -1,3 +1,4 @@
+#
 # JB Blocklist
 # Blocks ads, trackers, etc. not included by other blacklists I use
 #
