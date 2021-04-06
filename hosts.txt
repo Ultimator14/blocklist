@@ -4,6 +4,7 @@
 
 # Ads
 0.0.0.0 362b643a66026e.com
+0.0.0.0 a.exosrv.com
 0.0.0.0 ads-inmobi-com-tm.trafficmanager.net
 0.0.0.0 chitypyve.pro
 0.0.0.0 displayvertising.com
