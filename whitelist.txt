@@ -1,0 +1,14 @@
+#
+# JB Whitelist
+#
+
+# Ad URL Shortener
+adf.ly
+
+# Required by www.roller.de shopping cart
+www.googleoptimize.com
+
+# Required by Laphroaig Friends (Widgets, Map)
+resources.crowdtwist.com
+resources.crowdtwist.com
+events.mapbox.com
