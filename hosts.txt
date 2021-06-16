@@ -32,4 +32,5 @@
 0.0.0.0 www.platincasino.com
 
 # Malware/Spam
+0.0.0.0 mndnndmemen.my03.com
 0.0.0.0 uproductslive.com
