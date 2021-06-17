@@ -12,3 +12,6 @@ www.googleoptimize.com
 resources.crowdtwist.com
 resources.crowdtwist.com
 events.mapbox.com
+
+# Usenet access
+usenetnl.download
