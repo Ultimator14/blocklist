@@ -5,7 +5,13 @@
 # Ad URL Shortener
 adf.ly
 
+# Required by Amazon Android App
+fls-eu.amazon.de
+fls-eu.amazon.com
+aax-eu.amazon.de
+
 # Required by www.roller.de shopping cart
+googleoptimize.com
 www.googleoptimize.com
 
 # Required by Laphroaig Friends (Widgets, Map)
