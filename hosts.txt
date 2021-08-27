@@ -34,3 +34,8 @@
 # Malware/Spam
 0.0.0.0 mndnndmemen.my03.com
 0.0.0.0 uproductslive.com
+
+# Phishing
+0.0.0.0 r.stratorservice.de
+0.0.0.0 waynesboronurseries.com
+0.0.0.0 zpr.io
