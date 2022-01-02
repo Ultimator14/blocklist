@@ -1,0 +1,14 @@
+#
+# JB restrictive Blocklist
+# Blocks potential ads and additional services used to obtain ads
+#
+
+# Potential Ads (Good Job Games Zen Match)
+gjg.io
+a.gjg.io
+gc.gjg.io
+dynasty-zen.gjg.io
+
+# IP lookups
+ip-api.com
+ipinfo.io
