@@ -5,6 +5,11 @@
 # Ad URL Shortener
 adf.ly
 
+# Allow Google ads (Top hits on search)
+www.googleadservices.com
+clickserve.dartsearch.net
+ad.doubleclick.net
+
 # Required by Amazon Android App
 fls-eu.amazon.de
 fls-eu.amazon.com
@@ -16,7 +21,7 @@ www.googleoptimize.com
 
 # Required by Laphroaig Friends (Widgets, Map)
 resources.crowdtwist.com
-resources.crowdtwist.com
+cdn.crowdtwist.com
 events.mapbox.com
 
 # Usenet access
