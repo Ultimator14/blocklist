@@ -4,9 +4,11 @@
 #
 
 # Ads
+0.0.0.0 0-1-32-d1d27f13-0aee-4a62-8a18-a268eefd1610.analytics.mobilegamestats.com
 0.0.0.0 362b643a66026e.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 ads-inmobi-com-tm.trafficmanager.net
+0.0.0.0 www.adtilt.com
 0.0.0.0 chitypyve.pro
 0.0.0.0 cdn.exoticads.com
 0.0.0.0 ck.jads.co
