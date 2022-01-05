@@ -14,6 +14,7 @@
 0.0.0.0 www.adtilt.com
 0.0.0.0 chitypyve.pro
 0.0.0.0 cdn.exoticads.com
+0.0.0.0 cdn-adn-https-new.rayjump.com
 0.0.0.0 ck.jads.co
 0.0.0.0 displayvertising.com
 0.0.0.0 doswinuba.com
@@ -26,12 +27,15 @@
 0 0 0 0 itcameruptr.com
 0.0.0.0 native.adscale.de
 0.0.0.0 pickupmates.com
+0.0.0.0 policy.rayjump.com
 0 0 0 0 prunesbin.com
 0.0.0.0 resalag.com
 0 0 0 0 superbonuswin.com
 0.0.0.0 tolyafbnjt9dedjj10.com
 0.0.0.0 ulukaris.com
 0.0.0.0 vipde.gewinncodesystem.readtrade.link
+0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
+0.0.0.0 vg-new-hb.rayjump.com
 0.0.0.0 wd.adcolony.xyz
 0.0.0.0 xu2.com
 
