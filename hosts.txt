@@ -15,6 +15,7 @@
 0.0.0.0 chitypyve.pro
 0.0.0.0 cdn.exoticads.com
 0.0.0.0 cdn-adn-https-new.rayjump.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 ck.jads.co
 0.0.0.0 displayvertising.com
 0.0.0.0 doswinuba.com
@@ -26,6 +27,7 @@
 0.0.0.0 iosads4-6.adcolony.com
 0 0 0 0 itcameruptr.com
 0.0.0.0 native.adscale.de
+0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 pickupmates.com
 0.0.0.0 policy.rayjump.com
 0 0 0 0 prunesbin.com
