@@ -16,6 +16,7 @@
 0.0.0.0 adservice.google.mg
 
 # rayjump.com
+0.0.0.0 analytics-ios.rayjump.com
 0.0.0.0 cdn-adn-https-new.rayjump.com
 0.0.0.0 policy.rayjump.com
 0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
@@ -28,6 +29,7 @@
 
 # misc
 0.0.0.0 0-1-32-d1d27f13-0aee-4a62-8a18-a268eefd1610.analytics.mobilegamestats.com
+0.0.0.0 c8468c7e4fa35572f4dfd8a23ce2f267.adjns.com
 0.0.0.0 362b643a66026e.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 ads.s-i-r.de
@@ -38,6 +40,7 @@
 0.0.0.0 ck.jads.co
 0.0.0.0 displayvertising.com
 0.0.0.0 doswinuba.com
+0.0.0.0 eu.a.dauup.com
 0.0.0.0 fodlkf9d1p.com
 0.0.0.0 freehotadultgames.com
 0.0.0.0 fuckr.date
