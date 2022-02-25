@@ -22,6 +22,12 @@
 0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
 0.0.0.0 vg-new-hb.rayjump.com
 
+# servogram.io (iOS tracker)
+ab.servogram.io
+analytics.servogram.io
+gdpr-api.servogram.io
+instruments.servogram.io
+
 # unityads
 0.0.0.0 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -29,6 +35,7 @@
 
 # misc
 0.0.0.0 0-1-32-d1d27f13-0aee-4a62-8a18-a268eefd1610.analytics.mobilegamestats.com
+0.0.0.0 1100036635.sdk-hb.smaato.net
 0.0.0.0 c8468c7e4fa35572f4dfd8a23ce2f267.adjns.com
 0.0.0.0 362b643a66026e.com
 0.0.0.0 a.exosrv.com
