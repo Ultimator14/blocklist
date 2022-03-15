@@ -39,6 +39,7 @@ instruments.servogram.io
 0.0.0.0 c8468c7e4fa35572f4dfd8a23ce2f267.adjns.com
 0.0.0.0 362b643a66026e.com
 0.0.0.0 a.exosrv.com
+0.0.0.0 ace-ts2.admarvel.com
 0.0.0.0 ads.s-i-r.de
 0.0.0.0 ads-inmobi-com-tm.trafficmanager.net
 0.0.0.0 www.adtilt.com
@@ -54,6 +55,7 @@ instruments.servogram.io
 0.0.0.0 generouslivelinessevidence.com
 0.0.0.0 grutopsathu.pro
 0 0 0 0 itcameruptr.com
+0.0.0.0 ms4.applovin.com
 0.0.0.0 native.adscale.de
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 pickupmates.com
