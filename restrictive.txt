@@ -10,5 +10,7 @@ gc.gjg.io
 dynasty-zen.gjg.io
 
 # IP lookups
+dns.google
+dns.msftncsi.com
 ip-api.com
 ipinfo.io
