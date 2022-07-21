@@ -12,5 +12,6 @@ dynasty-zen.gjg.io
 # IP lookups
 dns.google
 dns.msftncsi.com
+doh.dns.apple.com
 ip-api.com
 ipinfo.io
