@@ -61,6 +61,7 @@ instruments.servogram.io
 0.0.0.0 pickupmates.com
 0 0 0 0 prunesbin.com
 0.0.0.0 resalag.com
+0.0.0.0 skadsdk.appsflyer.com
 0 0 0 0 superbonuswin.com
 0.0.0.0 tolyafbnjt9dedjj10.com
 0.0.0.0 ulukaris.com
