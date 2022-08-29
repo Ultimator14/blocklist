@@ -15,14 +15,19 @@
 # IP lookups #
 ##############
 
+# Akadns
+0.0.0.0 buy.itunes-apple.com.akadns.net
+0.0.0.0 gateway.fe.apple-dns.net
+0.0.0.0 inappcheck-lb.itunes-apple.com.akadns.net
+0.0.0.0 stats.gc-apple.com.akadns.net
+0.0.0.0 xp.itunes-apple.com.akadns.net
+
 # Apple
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 friend.gc.fe.apple-dns.net
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.gc.fe.apple-dns.net
 0.0.0.0 stats.gc.fe.apple-dns.net
-0.0.0.0 stats.gc-apple.com.akadns.net
-0.0.0.0 xp.itunes-apple.com.akadns.net
 
 # Google
 0.0.0.0 dns.google
