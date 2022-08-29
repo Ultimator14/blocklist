@@ -3,15 +3,29 @@
 # Blocks potential ads and additional services used to obtain ads
 #
 
-# Potential Ads (Good Job Games Zen Match)
+############################################
+# Potential Ads (Good Job Games Zen Match) #
+############################################
 gjg.io
 a.gjg.io
 gc.gjg.io
 dynasty-zen.gjg.io
 
-# IP lookups
-dns.google
-dns.msftncsi.com
+##############
+# IP lookups #
+##############
+
+# Apple
 doh.dns.apple.com
+setup.fe.apple-dns.net
+setup.gc.fe.apple-dns.net
+friend.gc.fe.apple-dns.net
+xp.itunes-apple.com.akadns.net
+
+# Google
+dns.google
+
+# Misc
+dns.msftncsi.com
 ip-api.com
 ipinfo.io
