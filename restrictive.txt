@@ -6,26 +6,26 @@
 ############################################
 # Potential Ads (Good Job Games Zen Match) #
 ############################################
-gjg.io
-a.gjg.io
-gc.gjg.io
-dynasty-zen.gjg.io
+0.0.0.0 gjg.io
+0.0.0.0 a.gjg.io
+0.0.0.0 gc.gjg.io
+0.0.0.0 dynasty-zen.gjg.io
 
 ##############
 # IP lookups #
 ##############
 
 # Apple
-doh.dns.apple.com
-setup.fe.apple-dns.net
-setup.gc.fe.apple-dns.net
-friend.gc.fe.apple-dns.net
-xp.itunes-apple.com.akadns.net
+0.0.0.0 doh.dns.apple.com
+0.0.0.0 setup.fe.apple-dns.net
+0.0.0.0 setup.gc.fe.apple-dns.net
+0.0.0.0 friend.gc.fe.apple-dns.net
+0.0.0.0 xp.itunes-apple.com.akadns.net
 
 # Google
-dns.google
+0.0.0.0 dns.google
 
 # Misc
-dns.msftncsi.com
-ip-api.com
-ipinfo.io
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 ip-api.com
+0.0.0.0 ipinfo.io
