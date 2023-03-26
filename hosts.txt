@@ -43,6 +43,8 @@ instruments.servogram.io
 0.0.0.0 ace-ts2.admarvel.com
 0.0.0.0 ads.s-i-r.de
 0.0.0.0 ads-inmobi-com-tm.trafficmanager.net
+0.0.0.0 ads-inmobi-comtm.trafficmanager.net
+0.0.0.0 adx.ads.vungle.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 chitypyve.pro
 0.0.0.0 cdn.exoticads.com
