@@ -26,6 +26,7 @@
 # Apple
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 friend.gc.fe.apple-dns.net
+0.0.0.0 fmipalservice.fe.apple-dns.net
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.gc.fe.apple-dns.net
 0.0.0.0 stats.gc.fe.apple-dns.net
