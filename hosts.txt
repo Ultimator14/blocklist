@@ -54,6 +54,7 @@ instruments.servogram.io
 0.0.0.0 chitypyve.pro
 0.0.0.0 cdn.exoticads.com
 0.0.0.0 ck.jads.co
+0.0.0.0 coloring-img-cf.x-flow.app
 0.0.0.0 displayvertising.com
 0.0.0.0 doswinuba.com
 0.0.0.0 eu.a.dauup.com
