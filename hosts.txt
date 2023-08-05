@@ -18,6 +18,7 @@
 
 # applovin
 0.0.0.0 ms4.applovin.com
+0.0.0.0 prod-a-events.applovin.com
 0.0.0.0 prod-ms4.applovin.com
 
 # everestop
