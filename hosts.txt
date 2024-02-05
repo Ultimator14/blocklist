@@ -15,12 +15,19 @@
 0.0.0.0 ace-prod.admarvel.com
 0.0.0.0 ace-ts2.admarvel.com
 
+# adscore
+0.0.0.0 4.adsco.re
+0.0.0.0 c.adsco.re
 
 # applovin
 0.0.0.0 ms4.applovin.com
 0.0.0.0 prod-a-events.applovin.com
 0.0.0.0 prod-a4.applovin.com
 0.0.0.0 prod-ms4.applovin.com
+
+# displayvertising
+0.0.0.0 displayvertising.com
+0.0.0.0 www.displayvertising.com
 
 # everestop
 0.0.0.0 everestop.io
@@ -30,6 +37,10 @@
 # google
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.mg
+
+# jads
+0.0.0.0 i.jads.co
+0.0.0.0 ck.jads.co
 
 # rayjump.com
 0.0.0.0 analytics-ios.rayjump.com
@@ -65,9 +76,7 @@ instruments.servogram.io
 0.0.0.0 www.adtilt.com
 0.0.0.0 chitypyve.pro
 0.0.0.0 cdn.exoticads.com
-0.0.0.0 ck.jads.co
 0.0.0.0 coloring-img-cf.x-flow.app
-0.0.0.0 displayvertising.com
 0.0.0.0 doswinuba.com
 0.0.0.0 eu.a.dauup.com
 0.0.0.0 fodlkf9d1p.com
@@ -80,6 +89,8 @@ instruments.servogram.io
 0.0.0.0 native.adscale.de
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 pickupmates.com
+0.0.0.0 poweredby.jads.co
+0.0.0.0 press-allow-browser3.com
 0 0 0 0 prunesbin.com
 0.0.0.0 resalag.com
 0.0.0.0 skadsdk.appsflyer.com
